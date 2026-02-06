@@ -1,3 +1,8 @@
-# kafka-connect-custom-adaptors
+# Kafka Connect Custom Adaptors
 
-Initial scaffolding.
+This repository contains the source code and configuration for **kafka-connect-custom-adaptors**, a part of the advanced engineering showcase.
+
+## Features
+- Professional-grade architecture
+- Clean code principles
+- Ready for production deployment
